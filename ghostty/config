@@ -1,0 +1,11 @@
+theme = Adwaita Dark 
+background-opacity = 1
+background-blur = 0
+font-family = "JetBrainsMono Nerd Font"
+foreground = #e7e6e4
+cursor-style = block
+cursor-style-blink = false
+shell-integration-features = no-cursor
+background-image = /Users/luizotavio/Pictures/wallpapersden.com_serial-experiments-lain-4k-lain-iwakura_5120x2880.jpg
+background-image-opacity = 0.25
+background-image-fit =  cover
